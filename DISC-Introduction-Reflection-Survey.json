@@ -1,0 +1,81 @@
+{
+  "title": "DISC Introduction: Reflection Survey",
+  "questions": [
+    {
+      "type": "mc",
+      "text": "What does DISC measure?",
+      "options": ["Emotional Intelligence", "Behavioral Intelligence", "Technical Skills", "Observable Behavior"],
+      "other": false
+    },
+    {
+      "type": "mc",
+      "text": "The 4-P Model from DISC, the D refers to how you deal with...",
+      "options": ["Pace", "People", "Procedure", "Problems"],
+      "other": false
+    },
+    {
+      "type": "mc",
+      "text": "The 4-P Model from DISC, the I refers to how you deal with...",
+      "options": ["People", "Pace", "Procedure", "Problems"],
+      "other": false
+    },
+    {
+      "type": "mc",
+      "text": "The 4-P Model from DISC, the S refers to how you deal with...",
+      "options": ["Procedure", "Pace", "People", "Problems"],
+      "other": false
+    },
+    {
+      "type": "mc",
+      "text": "The 4-P Model from DISC, the C refers to how you deal with...",
+      "options": ["Problems", "People", "Pace", "Procedure"],
+      "other": false
+    },
+    {
+      "type": "mc",
+      "text": "Your Natural Style in DISC describes...",
+      "options": ["How I show up at work.", "How others perceive me at work.", "Is your default, most comfortable way of behaving.", "How you naturally behave when stressed."],
+      "other": false
+    },
+    {
+      "type": "mc",
+      "text": "Your Adapted Style in DISC describes...",
+      "options": ["How I show up at work", "How others perceive me at work.", "My default, personality traits", "How I act at home."],
+      "other": false
+    },
+    {
+      "type": "mc",
+      "text": "Which behavioral dimension is your highest score above the energy line from your natural graph from your DISC report?",
+      "options": ["D", "I", "S", "C"],
+      "other": false
+    },
+    {
+      "type": "open",
+      "text": "For your highest DISC dimension (D, I, S, or C), the highest DISC dimension closet to 100% above the energy line; what strengths or advantages do you see in having this as your natural style? How do you believe these strengths can support and strengthen your team's collaboration?"
+    },
+    {
+      "type": "open",
+      "text": "Your \"co-pilot\", the second-highest DISC dimension (D, I, S, or C), the second closet to 100% above the energy line; how do you believe that impacts or influences your Highest DISC dimension?"
+    },
+    {
+      "type": "open",
+      "text": "For your highest DISC dimension (D, I, S, or C), what red lights or potential downsides do you see in having this as your natural style? In what ways might these tendencies hinder or complicate your team's collaboration if you are not managing them well?"
+    },
+    {
+      "type": "open",
+      "text": "For your lowest DISC dimension (D, I, S, or C), the one closest to 0% below the energy line; what strengths or advantages do you see in this part of your style? How could these strengths support and strengthen your team's collaboration?"
+    },
+    {
+      "type": "open",
+      "text": "Still referring to your lowest DISC dimension, how might others perceive you in terms of team collaboration? Are there any possible misperceptions that could arise because of this lower score?"
+    },
+    {
+      "type": "open",
+      "text": "When you compare your Natural style to your Adapted style, which DISC dimension shows the biggest gap? In that area, do you feel like you are burning more fuel to maintain your Adapted style? If so, how might this gap drain your energy or \"empty your tank\" more quickly during a typical week? What specific habits or boundaries could help you keep your tank fuller while still adapting when you need to?"
+    },
+    {
+      "type": "open",
+      "text": "From your DISC coaching sessions, is there anything that you specifically would like to address or get direction from your coach that has not already been discussed?"
+    }
+  ]
+}
